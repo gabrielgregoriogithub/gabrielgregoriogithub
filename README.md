@@ -39,4 +39,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/gabrielgregoriogithub/gabrielgregoriogithub/blob/output/github-contribution-grid-snake.svg)
+
