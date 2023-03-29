@@ -12,7 +12,7 @@
       
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="300" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="60" width="70" alt="python-icon" src="python.png">
     <img align="center" height="60" width="70" alt="react-icon" src="sqlserver.png">
@@ -20,10 +20,9 @@
     <img align="center" height="60" width="70" alt="looker-icon" src="logo_looker.png">
     <img align="center" height="60" width="70" alt="powerbi-icon" src="powerbi.png">
     <img align="center" height="90" width="70" alt="tableau-icon" src="Tableau.png">
- 
    </div>
     
-  
+ 
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: gabrielgregorio10@gmail.com">
       <img width="30" src="gmail.svg">
@@ -38,6 +37,5 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
 
  
