@@ -28,10 +28,10 @@ Data Analyst at <a target="_blank" href="https://www.itau.com.br/">Itaú </a><im
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="60" width="60" alt="python-icon" src="python.png">
     <img align="center" height="60" width="60" alt="react-icon" src="sqlserver.png">
-    <img align="center" height="100" width="60" alt="sasguide-icon" src="sasguide.png">
+    <img align="center" height="60" width="60" alt="sasguide-icon" src="sasguide.png">
     <img align="center" height="60" width="60" alt="looker-icon" src="logo_looker.png">
     <img align="center" height="60" width="60" alt="powerbi-icon" src="powerbi.png">
-    <img align="center" height="90" width="60" alt="tableau-icon" src="Tableau.png">
+    <img align="center" height="60" width="60" alt="tableau-icon" src="Tableau.png">
    </div>
     
  
