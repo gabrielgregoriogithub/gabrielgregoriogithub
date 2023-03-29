@@ -14,12 +14,12 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="60" width="80" alt="python-icon" src="python.png">
-    <img align="center" height="60" width="80" alt="react-icon" src="sqlserver.png">
-    <img align="center" height="100" width="80" alt="sasguide-icon" src="sasguide.png">
-    <img align="center" height="60" width="80" alt="looker-icon" src="logo_looker.png">
-    <img align="center" height="60" width="80" alt="powerbi-icon" src="powerbi.png">
-    <img align="center" height="90" width="80" alt="tableau-icon" src="Tableau.png">
+    <img align="center" height="60" width="70" alt="python-icon" src="python.png">
+    <img align="center" height="60" width="70" alt="react-icon" src="sqlserver.png">
+    <img align="center" height="100" width="70" alt="sasguide-icon" src="sasguide.png">
+    <img align="center" height="60" width="70" alt="looker-icon" src="logo_looker.png">
+    <img align="center" height="60" width="70" alt="powerbi-icon" src="powerbi.png">
+    <img align="center" height="90" width="70" alt="tableau-icon" src="Tableau.png">
  
    </div>
     
