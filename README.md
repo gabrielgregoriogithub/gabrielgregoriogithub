@@ -1,7 +1,19 @@
-### Hi there 👋, Gabriel here!
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I´m Greg, and welcome to my profile! 
+
+
+<hr>
+
+Data Analyst at <a target="_blank" href="https://www.itau.com.br/">Itaú </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+**About me:**
+
+- 👩🏼‍💻 I am currently working with SAS, AWS and Tableau (but I also know PowerBI, Looker, Python ans SQL);
+- 📚 I’m currently Amateur-Cheerleader; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@GabrielGregorio](https://www.linkedin.com/in/gabrielgregorio/);
 
 <div>
-  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielgregoriogithub&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgregoriogithub&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
