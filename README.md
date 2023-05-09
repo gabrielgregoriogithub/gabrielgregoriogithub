@@ -4,7 +4,7 @@
 <hr>
 
 Data Analyst at <a target="_blank" href="https://hotmart.com/pt-br">Hotmart 
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<!--</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 </em></p>
 
 **About me:**
