@@ -3,9 +3,9 @@
 
 <hr>
 
-Data Analyst at Hotmart
-<!--at <a target="_blank" href="https://www.itau.com.br/">Itaú </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>-->
+Data Analyst at <a target="_blank" href="https://hotmart.com/pt-br">Hotmart 
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 **About me:**
 
