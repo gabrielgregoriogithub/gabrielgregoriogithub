@@ -12,7 +12,7 @@ Data Analyst at Hotmart
 - 👩🏼‍💻 I am currently working with SAS, AWS and Tableau (but I also know PowerBI, Looker, Python ans SQL);
 - 📚 I’m currently Amateur-Cheerleader; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@GabrielGregorio](https://www.linkedin.com/in/gabrielgregorio/);
+- 📫 How to reach me: [@GabrielGregorio](https://gabrielgregoriogithub.github.io/links/);
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielgregoriogithub&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
